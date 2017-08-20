@@ -1,0 +1,9 @@
+{
+  "name": "advanced-react",
+  "version": "1.0.0",
+  "description": "Advanced React",
+  "main": "lib/server.js",
+  "repository": "https://github.com/pulluru/advanced-react.git",
+  "author": "Poorna Chandra <poornachandra1986@gmail.com>",
+  "license": "MIT"
+}
